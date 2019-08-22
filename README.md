@@ -15,17 +15,20 @@
 `
 Select * from books;
 `
+
 #### 2:Sort all books by catagories:
 
 ```
 select * from books order by catagories;
-  
+
 ```
+
 #### 3:Sort all books by High To Low;
 
 ```
 select * from books order by price desc;
 ```
+
 #### 4:Sort all books by Low to High;
 ```
 select * from books order by price;

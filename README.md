@@ -13,3 +13,22 @@
 `
 Select * from books;
 `
+```
+select * from books order by catagories;
+  
+  ```
+  ```
+select * from books order by popularity;
+
+```
+```
+select * from books order by price desc;
+
+```
+select * from books order by price;
+
+```
+```
+select * from books order by date;
+
+```
